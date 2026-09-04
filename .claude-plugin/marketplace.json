@@ -1,0 +1,13 @@
+{
+  "name": "frappe-team-marketplace",
+  "owner": {
+    "name": "Ragav05"
+  },
+  "plugins": [
+    {
+      "name": "frappe-standards",
+      "source": "./plugins/frappe-standards",
+      "description": "Frappe and ERPNext development standards and RCA workflow."
+    }
+  ]
+}

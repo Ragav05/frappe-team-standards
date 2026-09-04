@@ -1,0 +1,8 @@
+{
+  "name": "frappe-standards",
+  "version": "1.0.0",
+  "description": "Frappe and ERPNext development standards, customization rules, and RCA support.",
+  "author": {
+    "name": "Ragav05"
+  }
+}
